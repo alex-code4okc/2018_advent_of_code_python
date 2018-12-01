@@ -1,0 +1,1 @@
+sum([int(x.strip()) for x in open('day01_part01_input.txt').readlines()])
